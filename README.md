@@ -1,6 +1,6 @@
 # Cyberpunk Skip the Launcher && Intro
 
-In Steam right click the game in your library select `Properties...`
+In Steam right click the game in your library and select `Properties...`
 
 In the `General` section scroll to the bottom and find `LAUNCH OPTIONS` then paste in this line:
 
